@@ -6,4 +6,4 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=eerenanar&show_icons=true&theme=midnight-purple" alt="Famous GitHub Stats Card" />  
 <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerenanar&layout=compact&theme=midnight-purple&hide=javascript,html" lat="Most used languages"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerenanar&layout=compact&theme=midnight-purple&hide=javascript,html,jinja" lat="Most used languages"/> 
