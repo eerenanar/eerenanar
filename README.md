@@ -2,6 +2,8 @@
 <br>
 <h4 align=center>Contact Me </h4>
 <br>
+[Linkedn](https://www.linkedin.com/in/eren-anar-b3225311a/)
+<br>
 <h3 align = center> Software Test Automation Engineer</h3>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=eerenanar&show_icons=true&theme=midnight-purple" alt="Famous GitHub Stats Card" />  
